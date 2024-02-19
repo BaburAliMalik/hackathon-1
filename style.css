@@ -14,3 +14,17 @@
     outline: none;
     margin-right: 40px;
 }
+.text p{
+    color: black;
+    font-weight: bold;
+}
+ /* .para-2{
+    margin-left: 20px;
+} */
+
+/* .main{
+    background: url(imges/main-img.webp) no-repeat; 
+    background: cover;
+    height: 80vh;
+    width: 50px;
+} */
